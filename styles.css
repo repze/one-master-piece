@@ -124,7 +124,7 @@
     /* justify-items: center; */
     align-items: center;
 
-    margin: 88px 25%;
+    margin: 88px 25vw;
 
     & .intro{
         /* border: 1px solid red; */
@@ -195,7 +195,7 @@
 
 .anime-div{
     background-color: var(--yellow);
-    margin: 44px 25%;
+    margin: 44px 25vw;
     padding: 44px 0;
     border-radius: 18px;
 
